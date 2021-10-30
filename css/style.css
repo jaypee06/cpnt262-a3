@@ -10,16 +10,15 @@ h2{
     color:red;
 }
 .head3{
-    color: blue;
+    color: rgb(49, 49, 216);
 }
-
 main{
    text-align: center;
    margin-top: 5em;
 }
 
 section{
-    border: 1px solid black;
+    border: 1px solid rgb(66, 65, 65);
     width: 500px;
     margin: auto;
     border-radius: 4px;
@@ -46,14 +45,6 @@ ul{
 }
 
 .fcolor{
-    background-color: #e691dd;
+    background-color: #e97de2;
 }
-
-.fborder{
-    border: 1px solid #e691dd;
-}
-.mborder{
-    border: 1px solid #3152e8;
-}
-
 

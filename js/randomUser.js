@@ -55,7 +55,7 @@ fetch('https://randomuser.me/api/')
     
   });
 }
-//button to generate New user
+//A button to generate New user
 btn.addEventListener('click', getData);
 
 
